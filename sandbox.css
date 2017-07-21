@@ -1,0 +1,30 @@
+
+body 
+{
+
+	
+	font-family: "Helvetica";
+
+	margin-top: 1%;
+	margin-bottom: 1%;
+
+   	margin-left: 1.75%;
+
+   	margin-right: 1.75%;
+
+}
+
+
+
+canvas#sandbox 
+{
+
+	
+	background: #4D4D4D;
+	/* Used when gradient not compatible with browser */
+
+	background: radial-gradient(ellipse at center, #4D4D4D, #000000);
+
+	width: 100%;
+
+}
